@@ -1,0 +1,21 @@
+body
+{
+margin:0;
+padding:0;
+display:flex;
+justify-content:center;
+min-height:100vh;
+background-color:#f0f0f0;}
+.cc{
+text-align:center;
+width: -webkit-fill-available;
+}
+img
+{
+position:relative;
+width:30%;
+height:24%}
+h2{
+text-align:center
+color:white;
+background-color:red;}
